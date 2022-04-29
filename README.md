@@ -3,7 +3,7 @@ MongoDB Community Server indirilip, projectin çalışacağı bilgisayarda kurul
 O arayüzde New Database Name: <i>test1</i> New Collection Name:  <i>test2</i> oluşturulmalıdır.</br>
 Not: Collection içi boş kalabilir. Csv dosyası ilk upload aldığında veri şablonu otomatik oluşturuyor.</br>
 
-<b>project run as edildiğindeki test adresleri</b></br>
+# test adresleri 
 UPLOAD CSV</br>
 http://localhost:8080/welcome</br>
 
